@@ -1,0 +1,64 @@
+{
+  "plants": [
+    {
+      "id": 1,
+      "name": "Aloe",
+      "image": "./images/aloe.jpg",
+      "price": 15.99
+    },
+    {
+      "id": 2,
+      "name": "ZZ Plant",
+      "image": "./images/zz-plant.jpg",
+      "price": 25.98
+    },
+    {
+      "id": 3,
+      "name": "Pilea peperomioides",
+      "image": "./images/pilea.jpg",
+      "price": 5.99
+    },
+    {
+      "id": 4,
+      "name": "Pothos",
+      "image": "./images/pothos.jpg",
+      "price": 12.11
+    },
+    {
+      "id": 5,
+      "name": "Jade",
+      "image": "./images/jade.jpg",
+      "price": 10.37
+    },
+    {
+      "id": 6,
+      "name": "Monstera Deliciosa",
+      "image": "./images/monstera.jpg",
+      "price": 25.99
+    },
+    {
+      "id": 7,
+      "name": "Fiddle Leaf Fig",
+      "image": "./images/fiddle-leaf-fig.jpg",
+      "price": 55
+    },
+    {
+      "name": "Blossom",
+      "image": "https://media.istockphoto.com/id/1372896722/photo/potted-banana-plant-isolated-on-white-background.jpg?b=1&s=170667a&w=0&k=20&c=YUsWUtmmiNtJ0AmhT3mC0sgNfcK9c0DPnyoVFnXNChI=",
+      "price": "100",
+      "id": 8
+    },
+    {
+      "name": "Blueberries",
+      "image": "http://st.depositphotos.com/1261297/1914/i/450/depositphotos_19141051-Pink-spring-blossom-border-background.jpg",
+      "price": "40",
+      "id": 9
+    },
+    {
+      "name": "Palm Tree",
+      "image": "https://img.freepik.com/free-vector/flat-houseplant-collection_23-2148899678.jpg?w=2000",
+      "price": "500",
+      "id": 10
+    }
+  ]
+}
